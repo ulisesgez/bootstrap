@@ -18,4 +18,15 @@ Grid de Bootstrap:
 Conjunto de contenedores, filas y columnas que definen como de va a presentar y
 a alinear el contenido.
 
+Breakpoints:
+Puntos de quiebre que definen el tamaño de la pantalla en el que se va a
+adaptar el contenido.
+Dimensiones (ancho) a partir de la cual podemos cambiar el estilo o la estructura
+de la pagina web.
+- Extra small: <576px (celulares) --> xs
+- Small: >=576px (tablets) --> sm
+- Medium: >=768px (laptops) --> md
+- Large: >=992px (desktops) --> lg
+- Extra large: >=1200px (desktops grandes) --> xl
+- Extra extra large: >=1400px (televisores) --> xxl
 */
