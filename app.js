@@ -17,7 +17,10 @@ Que se adapta a distintos dispositivos en base a su tamaño y orientación.
 Grid de Bootstrap:
 Conjunto de contenedores, filas y columnas que definen como de va a presentar y
 a alinear el contenido. Un contenedor puede tener varias filas y una fila puede
-tener varias columnas.
+tener varias columnas. 
+
+Contenedor:
+Elemento HTML que permite agrupar otros elementos HTML.
 
 Breakpoints:
 Puntos de quiebre que definen el tamaño de la pantalla en el que se va a
