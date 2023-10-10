@@ -33,4 +33,8 @@ de la pagina web.
 - Large: >=992px (desktops) --> lg
 - Extra large: >=1200px (desktops grandes) --> xl
 - Extra extra large: >=1400px (televisores) --> xxl
+
+Componentes:
+Elementos HTML reutilizable que ya viene con un estilo predeterminado
+y que podemos usar en nuestro sitio web, paginas o aplicaciones.
 */
