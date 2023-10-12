@@ -52,5 +52,14 @@ se van a colocar los elementos dentro del contenedor.
 - row-reverse: horizontal invertido
 - column-reverse: vertical invertido
 
+Justify-content:
+Define como se distribuyen los elementos en el eje principal del contenedor.
+- flex-start: al inicio
+- flex-end: al final
+- center: al centro
+- space-between: espacio entre los elementos
+- space-around: espacio alrededor de los elementos
+- space-evenly: espacio entre los elementos y alrededor de los elementos
+
 
 */
