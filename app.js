@@ -61,5 +61,20 @@ Define como se distribuyen los elementos en el eje principal del contenedor.
 - space-around: espacio alrededor de los elementos
 - space-evenly: espacio entre los elementos y alrededor de los elementos
 
+Align-items:
+Define como de distribuyen los elementos en el eje perpendicular
+al eje principal del contenedor.
+- flex-start: al inicio
+- flex-end: al final
+- center: al centro
+- baseline: alineados por la linea base
+- stretch: estirados
 
+Flex-wrap:
+Determina si los elementos deben ser ajustados para que siempre
+esten en una misma linea o si se les permite distribuirse en varias
+lineas si es necesario.
+- nowrap: no ajustar (por defecto)
+- wrap: ajustar
+- wrap-reverse: ajustar invertido
 */
