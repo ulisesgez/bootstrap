@@ -37,4 +37,20 @@ de la pagina web.
 Componentes:
 Elementos HTML reutilizable que ya viene con un estilo predeterminado
 y que podemos usar en nuestro sitio web, paginas o aplicaciones.
+
+Flexbox (Flexible Box Layout):
+Permite que los elementos responsivos ubicados dentro de un
+contenedor se distribuyan automáticamente en base al tamaño del dispositivo.
+Bootstrap incluye clases que podemos usar para trabajar con Flexbox
+más fácilmente.
+
+Flex-direction:
+Establece el eje principal del contenedor, la dirección en la cual
+se van a colocar los elementos dentro del contenedor.
+- row: horizontal (por defecto)
+- column: vertical
+- row-reverse: horizontal invertido
+- column-reverse: vertical invertido
+
+
 */
